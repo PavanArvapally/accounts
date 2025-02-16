@@ -9,6 +9,6 @@ public class AccountsController {
 
     @GetMapping(value = "hello")
     public String helloWorld(){
-        return "Hello Pavan";
+        return "Hello Github";
     }
 }
